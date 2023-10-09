@@ -1,0 +1,17 @@
+
+
+.formulario{
+    
+    display: flex;
+    justify-content: center;
+    margin: 20px 0 ;
+    
+}
+.formulario form{
+    padding: 60px 10%;
+    max-width: 90%;
+    box-shadow: 7px 7px 15px 0px rgba(0, 0, 0, 0.08);
+    background: rgba(246, 246, 246, 1);
+    
+}
+ 

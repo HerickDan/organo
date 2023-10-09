@@ -1,0 +1,14 @@
+.Botao {
+    width: 140px;
+    height: 60px;
+    top: 1313px;
+    left: 255px;
+    border-radius: 10px;
+    background: rgba(98, 120, 247, 1);
+    color: rgba(255, 255, 255, 1);
+    border: none;
+}
+.Botao:hover{
+    color: rgba(149, 255, 212, 1);
+
+}

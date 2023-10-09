@@ -1,0 +1,11 @@
+.listaSuspensa select {
+    background: rgba(255, 255, 255, 1);
+    border: none;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    border-radius:10px ;
+    font-size: 20px;
+    padding: 10px 25px;
+    box-sizing: border-box;
+}
